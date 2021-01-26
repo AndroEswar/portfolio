@@ -77,7 +77,7 @@ header.sticky {
 header .logo {
     color: #fff;
     font-size: 24px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     text-decoration: none;
     font-weight: 700;
     letter-spacing: 2px;
